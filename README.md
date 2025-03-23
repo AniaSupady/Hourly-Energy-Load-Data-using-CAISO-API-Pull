@@ -2,6 +2,9 @@
 
 This repository provides a comprehensive analysis of electricity load and renewable generation data from CAISO (California Independent System Operator) for March 15, 2025. The analysis includes both statistical summaries and visualizations of key variables such as load and renewable energy generation from wind and solar sources.
 
+### https://github.com/AniaSupady/Hourly-Energy-Load-Data-using-CAISO-API-Pull/blob/main/Energy_Load_Data_Pull_(Hourly_one_day)_using_CAISO.ipynb  
+
+
 ## Steps in the Analysis
 
 1. **Data Fetching**:  
